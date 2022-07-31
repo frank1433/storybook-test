@@ -2,7 +2,7 @@
  * @Author: frank zhang
  * @Date:   2022-07-31 09:47:37
  * @Last Modified by:   frank zhang
- * @Last Modified time: 2022-07-31 10:27:07
+ * @Last Modified time: 2022-07-31 15:25:25
  */
 import "../src/index.css";
 export const parameters = {
@@ -13,4 +13,5 @@ export const parameters = {
       date: /Date$/,
     },
   },
+  layout: "fullscreen",
 };

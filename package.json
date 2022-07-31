@@ -64,6 +64,7 @@
     "@storybook/addon-interactions": "^6.5.7",
     "@storybook/addon-links": "^6.5.7",
     "@storybook/builder-webpack5": "^6.5.7",
+    "@storybook/client-api": "^6.5.9",
     "@storybook/jest": "^0.0.10",
     "@storybook/manager-webpack5": "^6.5.7",
     "@storybook/node-logger": "^6.5.7",
